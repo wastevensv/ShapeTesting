@@ -1,7 +1,7 @@
 ShapeTesting
 ============
 
-A simple impelentation of nodes and basic graph theory in Java. Designed as a expiriment and a personal programming challenge.
+A simple impelentation of nodes and basic graph theory in Java. Designed as a experiment and a personal programming challenge.
 
 Instructions
 ===========
